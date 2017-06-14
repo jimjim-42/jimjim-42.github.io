@@ -1,0 +1,55 @@
+body{
+	margin:0;
+	background-color: blue /*rgb(100,100,100)*/;
+	font-size:20px;
+	font-family: "Open Sans", Arial, sans-serif;
+	}
+h1{
+	
+	font-size: 35px;
+	font color: black;
+	font-weight: bold;
+	
+	}
+
+h2{
+	font-size:30px;
+	font color: black;
+	
+	}
+
+img{
+	width:100%;
+	}
+
+.cardsub
+	{
+	font-size:22px;
+	font-weight: bold;
+	}
+.contact{float: right;
+		font-size: 25px;
+		}
+.card-block
+	{
+	background-color: silver /*rgb(120,100,80)*/;
+	margin-bottom: 3px;
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-top: 3px;
+	}
+
+.card{
+	margin:20px;
+	}
+
+.navbar{background-color: silver;
+		margin-bottom: 10px;
+		border-color: white; 
+		}
+
+.home{
+	/*background-image:url(../img/pan.jpg)*/;
+	}
+
+progress{width: 100%;}
